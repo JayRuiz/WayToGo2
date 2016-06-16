@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WayToGo2</string>
+    <string name="inputScript">Input the your location</string>
+    <string name="mapButton">Map</string>
+</resources>
